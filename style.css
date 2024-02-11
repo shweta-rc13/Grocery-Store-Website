@@ -677,6 +677,7 @@ footer{
     .client-box-container{
         grid-template-columns: 1fr;
     }
+}
     @media(max-width:500px) {
         #search-banner{
             height: 200px;
